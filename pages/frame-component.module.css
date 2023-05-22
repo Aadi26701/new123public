@@ -1,0 +1,17 @@
+.fixedFiles2Parent {
+  position: relative;
+  border-radius: 432.12px;
+  background-color: #f99e23;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 432.1167907714844px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 720.19px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
